@@ -12,6 +12,8 @@
 # Cargar el paquete tidyverse y readxl (usar funcion read_excel()  
 # para importar la base de datos)
 
+library(tidyverse)
+
 
 # Abra la base de datos llamada dptos_2022.xlsx que se
 # encuentra en la carpeta "Ejercicios/data" en la plataforma
